@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿namespace dir1;
 class Program
 {
     static void Main(string[] args)

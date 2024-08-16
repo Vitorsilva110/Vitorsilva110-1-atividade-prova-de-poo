@@ -1,0 +1,15 @@
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\bin\Debug\net8.0\dir11.exe
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\bin\Debug\net8.0\dir11.deps.json
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\bin\Debug\net8.0\dir11.runtimeconfig.json
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\bin\Debug\net8.0\dir11.dll
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\bin\Debug\net8.0\dir11.pdb
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\obj\Debug\net8.0\dir11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\obj\Debug\net8.0\dir11.AssemblyInfoInputs.cache
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\obj\Debug\net8.0\dir11.AssemblyInfo.cs
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\obj\Debug\net8.0\dir11.csproj.CoreCompileInputs.cache
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\obj\Debug\net8.0\dir11.sourcelink.json
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\obj\Debug\net8.0\dir11.dll
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\obj\Debug\net8.0\refint\dir11.dll
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\obj\Debug\net8.0\dir11.pdb
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\obj\Debug\net8.0\dir11.genruntimeconfig.cache
+D:\Users\20231170150037\Downloads\Vitorsilva110-1-atividade-prova-de-poo\poo.hj\dir11\obj\Debug\net8.0\ref\dir11.dll
